@@ -1,7 +1,7 @@
 # Meiti UI
 
 [![npm](https://img.shields.io/npm/v/meiti-ui.svg)](https://www.npmjs.com/package/meiti-ui)
-[![GitHub](https://img.shields.io/github/stars/yourname/meiti-ui?style=social)](https://github.com/yourname/meiti-ui)
+[![GitHub](https://img.shields.io/github/stars/yourname/meiti-ui?style=social)](https://github.com/yourname/meiti-ui](https://github.com/Meiti-021/meiti-ui))
 
 > ✨ Reusable React components built with Tailwind CSS and Toastify – lightweight, stylish, and easy to plug into any project.
 
